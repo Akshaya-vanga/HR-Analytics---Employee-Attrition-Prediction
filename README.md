@@ -39,6 +39,24 @@ This project predicts employee attrition using Machine Learning techniques. The 
 - ROC Curve
 - Feature Importance
 
+## Visualizations
+
+### Model Comparison
+
+![Model Comparison](images/model_comparison.png)
+
+### ROC Curve
+
+![ROC Curve](images/roc_curve.png)
+
+### Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
+### Random Forest Confusion Matrix
+
+![Random Forest Confusion Matrix](images/random_forest_confusion_matrix.png)
+
 ## Repository Structure
 ```
 HR-Analytics-Employee-Attrition-Prediction/
